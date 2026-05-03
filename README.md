@@ -1,6 +1,8 @@
-# Tech Challenge Fase 1 — Case NPS Preditivo
+# Tech Challenge Fase 1 —  Case NPS Preditivo
 
-**FIAP PosTech | Ciência de Dados e Inteligência Artificial**
+**FIAP PosTech | IA Scientist**
+
+Este projeto foi desenvolvido em equipe.
 
 ---
 
